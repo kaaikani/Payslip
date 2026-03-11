@@ -1,7 +1,7 @@
 import { GraphQLClient, gql } from "graphql-request";
 
 const endpoint =
-  "https://eu-west-2.cdn.hygraph.com/content/cmm90oqgn005506w7ailqayqe/master";
+  "https://ap-south-1.cdn.hygraph.com/content/cmm0xiutn00ib07w200zvjfs9/master";
 
 const client = new GraphQLClient(endpoint);
 
